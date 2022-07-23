@@ -1,17 +1,17 @@
-# netbooks
+# 【ifeng】 pay_portal
 
-> A Vue.js project
+> Pay Vue.js project
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependencies // 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8088 // 启动服务
 npm run dev
 
-# build for production with minification
+# build for production with minification // 构建项目
 npm run build
 
 # build for production and view the bundle analyzer report
@@ -23,7 +23,7 @@ npm run unit
 # run e2e tests
 npm run e2e
 
-# run all tests
+# run all tests // 可配置Jest测试框架
 npm test
 ```
 
