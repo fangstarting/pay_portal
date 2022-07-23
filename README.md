@@ -2,6 +2,8 @@
 
 > Pay Vue.js project
 
+> E-mail: ifeng823@outlook.com
+
 ## Build Setup
 
 ``` bash
